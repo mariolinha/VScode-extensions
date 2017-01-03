@@ -27,3 +27,5 @@ List of [Visual Studio Code](https://code.visualstudio.com/) extensions
 - [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
+- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+- [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)
