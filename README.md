@@ -14,6 +14,7 @@ List of [Visual Studio Code](https://code.visualstudio.com/) extensions
 - [HTML CSS Class Completion](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 - [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
 - [IntelliJ IDEA Keybindings](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings)
+- [Atom Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings#review-details)
 - [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets)
 - [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint)
 - [Material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
