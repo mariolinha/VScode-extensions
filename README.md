@@ -31,3 +31,4 @@ List of [Visual Studio Code](https://code.visualstudio.com/) extensions
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)
 - [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
+- [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
