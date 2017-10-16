@@ -30,3 +30,4 @@ List of [Visual Studio Code](https://code.visualstudio.com/) extensions
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)
+- [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
